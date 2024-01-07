@@ -5,4 +5,4 @@ Feel free to Contribute.
 
 Will be adding new features soon.
 
-UPdating by next week.
+Updating by next week.
