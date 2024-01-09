@@ -7,3 +7,5 @@ Feel free to Contribute.
 Will be adding new features soon.
 
 Updating by next week.
+
+Author
